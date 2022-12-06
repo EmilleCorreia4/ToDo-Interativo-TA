@@ -1,9 +1,8 @@
-import { useState } from 'react'
 import { Component} from '.'
 import { Link} from "react-router-dom"
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <Component className="App">
