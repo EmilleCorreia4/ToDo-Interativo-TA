@@ -13,17 +13,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </Routes>
   </BrowserRouter>
 )
-/*
-  <BrowserRouter>
-    <Routes>
-      <Route path='/' element={<Home/>}></Route>
-      <Route path='/details/:id' element={<Details/>}></Route>
-    </Routes>
-    </BrowserRouter>
-import Home from './pages/Home/Serie/index'
-import Details from './pages/Details'
-import Filtro from './pages/Home/Filtro'
-
-
-);
-*/
