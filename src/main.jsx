@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <Routes>
       <Route path='/' element={<App/>}></Route>
-      <Route path='Principal' element={<Principal/>}></Route>
+      <Route path='/principal' element={<Principal/>}></Route>
     </Routes>
   </BrowserRouter>
 )
